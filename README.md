@@ -11,6 +11,13 @@
 
 사용한 공공 데이터 사이트
 1. [기상자료개방포털](https://data.kma.go.kr/cmmn/main.do)
+2. [대중교통 통계자료](https://pay.tmoney.co.kr/ncs/pct/ugd/ReadUgdMainGd.dev)
+
+
+> 2024. 1 25   
+>  > 공공데이터 시작(2)-대중교통 데이터 분석 : [Naver Blog Link](https://blog.naver.com/mathnoah/223333326677)   
+>  > 공공데이터 시작(3)-대중교통 데이터 분석, 딕셔너리 정렬(lambda, operator) : [Naver Blog Link](https://blog.naver.com/mathnoah/223333502281)   
+
 
 
 > 2024. 1 24   
