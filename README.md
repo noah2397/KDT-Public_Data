@@ -21,12 +21,10 @@
 4. [공공데이터포털](https://www.data.go.kr/)       
 5. [KOSIS 국가통계포털](https://kosis.kr/index/index.do)    
 
-<hr/>
+<hr/>   
 > 2024. 1 29       
->  > 공공데이터 시작(7)- 공공보건 의료기관 데이터 분석(2)
- : [Naver Blog Link](https://blog.naver.com/mathnoah/223337043289)     
->  > 공공데이터 시작(6)- 공공보건 의료기관 데이터 분석(1)
- : [Naver Blog Link](https://blog.naver.com/mathnoah/223337032044)     
+>  > 공공데이터 시작(7)- 공공보건 의료기관 데이터 분석(2) : [Naver Blog Link](https://blog.naver.com/mathnoah/223337043289)     
+>  > 공공데이터 시작(6)- 공공보건 의료기관 데이터 분석(1) : [Naver Blog Link](https://blog.naver.com/mathnoah/223337032044)     
 
 
 > 2024. 1 26      
