@@ -18,19 +18,26 @@
 1. [기상자료개방포털](https://data.kma.go.kr/cmmn/main.do)
 2. [대중교통 통계자료](https://pay.tmoney.co.kr/ncs/pct/ugd/ReadUgdMainGd.dev)
 3. [행정안전부](https://www.mois.go.kr/frt/a01/frtMain.do)
+4. [공공데이터포털](https://www.data.go.kr/)       
+5. [KOSIS 국가통계포털](https://kosis.kr/index/index.do)    
 
-> 2024. 1 26   
+<hr/>   
+   
+> 2024. 1 29     
+>  > 공공데이터 시작(7)- 공공보건 의료기관 데이터 분석(2) : [Naver Blog Link](https://blog.naver.com/mathnoah/223337043289)     
+>  > 공공데이터 시작(6)- 공공보건 의료기관 데이터 분석(1) : [Naver Blog Link](https://blog.naver.com/mathnoah/223337032044)     
+
+
+> 2024. 1 26      
 >  > 공공데이터 시작(4)-인구 데이터 분석(age.csv)
- : [Naver Blog Link](https://blog.naver.com/mathnoah/223334337934)   
+ : [Naver Blog Link](https://blog.naver.com/mathnoah/223334337934)     
 >  > 공공데이터 시작(5)-인구 데이터 분석(gender.csv)
- : [Naver Blog Link](https://blog.naver.com/mathnoah/223334529817)   
+ : [Naver Blog Link](https://blog.naver.com/mathnoah/223334529817)     
 
-
-
+    
 > 2024. 1 25   
 >  > 공공데이터 시작(2)-대중교통 데이터 분석 : [Naver Blog Link](https://blog.naver.com/mathnoah/223333326677)   
 >  > 공공데이터 시작(3)-대중교통 데이터 분석, 딕셔너리 정렬(lambda, operator) : [Naver Blog Link](https://blog.naver.com/mathnoah/223333502281)   
-
 
 
 > 2024. 1 24   
