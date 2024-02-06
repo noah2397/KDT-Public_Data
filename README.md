@@ -22,6 +22,10 @@
 5. [KOSIS 국가통계포털](https://kosis.kr/index/index.do)    
 
 <hr/>   
+
+> 2024. 1 31     
+>  > 공공데이터 시작(8) - 모두의 데이터 분석 with 파이썬총정리 : [Naver Blog Link](https://blog.naver.com/mathnoah/223339921982)     
+
    
 > 2024. 1 29     
 >  > 공공데이터 시작(7)- 공공보건 의료기관 데이터 분석(2) : [Naver Blog Link](https://blog.naver.com/mathnoah/223337043289)     
